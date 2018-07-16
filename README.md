@@ -22,6 +22,7 @@ fork 后更新代码到该仓库，然后提交 PR。
 
 ```
   {
+    "showname": "笔趣阁 YBDU",
     "filename": "www.ybdu.com.js",
     "description": "下载 [www.ybdu.com](https://www.ybdu.com) 的小说的逻辑",
     "url": "https://raw.githubusercontent.com/MiYogurt/ybdy_downloader/master/www.ybdu.com.js",
